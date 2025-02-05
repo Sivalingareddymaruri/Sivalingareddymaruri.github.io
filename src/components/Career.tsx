@@ -15,29 +15,25 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Web developer Intern</h4>
+                <h5>SSIT</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2024</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+            As a Web Developer Intern, I have assisted in designing, developing, and maintaining websites using technologies like HTML, CSS, JavaScript, and frameworks such as React.My role involves optimizing performance, and ensuring responsiveness across different devices
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>UI designer Intern</h4>
+                <h5>Coding cult</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+            As a UI/UX Designer Intern, I have involved in conducting user research to understand user needs and translating them into intuitive wireframes and interfaces.I have created interactive prototypes, collaborate with developers to ensure seamless design implementation, and refine designs based on user feedback.
             </p>
           </div>
           <div className="career-info-box">
